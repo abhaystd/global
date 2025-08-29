@@ -1,8 +1,3 @@
-# Candidate Assignments — SET-2 (Python Only)
-
-This repository contains complete solutions for the **Candidate Assignment** (SET-2) with a clean structure, Python-only `.py` files, and step-by-step instructions to run and explain in interviews. It implements tasks **1a, 1b, 2, 3** exactly as described in the instructions.
-
-> Built to satisfy the PDF brief: *"All assignments must be completed in Python (No Jupyter Allowed, pure .py files is needed)"* and *"Your assignment set includes 4 tasks (1a, 1b, 2, and 3)"*. Solutions and structure here map 1:1 to the assignment text. 
 
 ## Repo Structure
 
